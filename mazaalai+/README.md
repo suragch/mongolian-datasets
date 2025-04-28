@@ -1,0 +1,3 @@
+This dataset comes from the Cyrillic-Bichig converter app (not yet publicly released) ([source code](https://github.com/suragch/mongol_converter)) and the data input by Mazaalai and others. Special thanks for their hard work.
+
+The traditional Mongolian is encoded in Menksoft code and Unicode. See [Mongol Code](https://github.com/suragch/mongol_code) for a Unicode conversion algorithm. If there is a discrepancy, the Menksoft code takes precedence since it is glyph-based and this is what was verified at input time.

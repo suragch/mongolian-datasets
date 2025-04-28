@@ -1,6 +1,6 @@
 # Cyrillic - Traditional Mongolian pairs
 
-Dataset provided by Greg Eck.
+Dataset provided by Greg Eck. Special thanks to Greg for releasing his large dataset (18000+ entries) to the public domain. I hope many more individuals, companies, and organizations will follow his example. By working together, we can make it easier for developers to build quality tools like spell checkers, converters, and IMEs.
 
 ## Abbreviations
 
